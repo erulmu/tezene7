@@ -1,13 +1,13 @@
-# Tezene 7
+# Dizek 7
 
-**Tezene 7**, Türk Halk Müziği (THM) ve bağlama icrasına özel olarak geliştirilmiş web tabanlı nota editörü ve dizgi yazılımıdır.
+**Dizek 7**, Türk Halk Müziği (THM) ve bağlama icrasına özel olarak geliştirilmiş modern, etkileşimli bir nota editörü ve dizgi yazılımıdır.
 
 🔗 **Canlı Çevrimiçi Sürüm (Web):**  
 👉 **[https://erulmu.github.io/tezene7/](https://erulmu.github.io/tezene7/)**
 
 ---
 
-![Tezene 7 Logo](dizek-512.png)
+![Dizek 7 Logo](dizek-512.png)
 
 ## Özellikler
 
@@ -19,10 +19,7 @@
 - **A4 Baskı ve Sayfa Önizleme:** Profesyonel nota çıktısı ve PDF yazdırma desteği.
 - **Masaüstü Taşınabilir Başlatıcı:** `tezene7.exe` dosyasıyla internetsiz olarak masaüstünden tek tıkla çalıştırılabilir.
 
-## Dosyalar
+## Kullanım
 
-- `index.html` — GitHub Pages canlı web sürümü ([https://erulmu.github.io/tezene7/](https://erulmu.github.io/tezene7/))
-- `tezene7.html` — Çevrimdışı bağımsız web sürümü
-- `tezene7.exe` — Windows taşınabilir başlatıcı (simgesi gömülü)
-- `dizek.ico` / `favicon.ico` — Uygulama simgeleri ($b^7$)
-- `dizek-512.png` / `dizek-512.svg` — Yüksek çözünürlüklü vektör ve görsel varlıklar
+- **Doğrudan Başlatma:** `tezene7.exe` dosyasına çift tıklayarak internetsiz olarak doğrudan açabilirsiniz.
+- **Tarayıcıda Çalıştırma:** `tezene7.html` dosyasını indirip herhangi bir modern web tarayıcısında (Chrome, Edge, Firefox vb.) açabilir ya da doğrudan [https://erulmu.github.io/tezene7/](https://erulmu.github.io/tezene7/) adresine giderek kurulum yapmadan tarayıcınızdan kullanabilirsiniz.
